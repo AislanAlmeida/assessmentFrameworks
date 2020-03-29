@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "nome":"Stars Wars Jedi: Fallen Order",
+      "genero":"Aventura",
+      "imagem":"https://media.contentapi.ea.com/content/dam/gin/common/packart/star-wars-jedi-fallen-order-pc-deluxe-packart.png"
+     },
+     {
+      "nome":"DOOM Eternal",
+      "genero":"FPS",
+      "imagem":"https://media.gamestop.com/i/gamestop/10163468/DOOM-Eternal?$pdp$"
+     },
+     {
+      "nome":"Project Cars 2",
+      "genero":"Corrida",
+      "imagem":"https://http2.mlstatic.com/project-cars-2-5-dlcs-pc-game-frete-barato-D_NQ_NP_756233-MLB27599994763_062018-F.jpg"
+     }]
+}
+     
+      
